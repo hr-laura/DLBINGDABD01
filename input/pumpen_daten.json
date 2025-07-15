@@ -1,0 +1,42 @@
+[
+  {
+    "pumpenart": "Membranpumpe",
+    "herstellungskosten": 776.32,
+    "preis": 1170.37
+  },
+  {
+    "pumpenart": "Schraubenspindelpumpe",
+    "herstellungskosten": 237.72,
+    "preis": 290.22
+  },
+  {
+    "pumpenart": "Kreiselpumpe",
+    "herstellungskosten": 285.56,
+    "preis": 326.84
+  },
+  {
+    "pumpenart": "Getriebepumpe",
+    "herstellungskosten": 906.41,
+    "preis": 1160.31
+  },
+  {
+    "pumpenart": "Fasspumpe",
+    "herstellungskosten": 995.63,
+    "preis": 1206.85
+  },
+  {
+    "pumpenart": "Jetpumpe",
+    "herstellungskosten": 705.07,
+    "preis": 806.96
+  },
+  {
+    "pumpenart": "Thermopumpe",
+    "herstellungskosten": 182.27,
+    "preis": 285.91
+  },
+  {
+    "pumpenart": "Zahnradpumpe",
+    "herstellungskosten": 195.99,
+    "preis": 298.48
+  }
+]
